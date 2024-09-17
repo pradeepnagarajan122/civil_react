@@ -61,7 +61,7 @@ function App() {
       </div> <br></br>
     
       <div className="flex relative justify-center">
-        <p className="text-xl font-extrabold hover:bg-emerald-300">Modern Concepts</p>
+        <p className="text-xl font-extrabold hover:bg-emerald-300">NEW CONCEPTS</p>
       </div> <br></br>
       <div className="flex absolute ml-20"> 
         <img src={pic3} alt='pic3' style={{ height: "400px", width: "500px", marginTop: "0px", marginLeft: "30px"}}></img>
